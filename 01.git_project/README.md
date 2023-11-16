@@ -111,7 +111,7 @@ ordered list
 
 `console.log('Welcome to darey.io')`
 
-These arethe most commonly used markdown syntax elements.
+These are the most commonly used markdown syntax elements.
 
 
 
