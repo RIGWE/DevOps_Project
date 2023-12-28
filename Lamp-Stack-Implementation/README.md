@@ -129,7 +129,13 @@ Step 3 - Installing PHP
 
 Step 4 - Configuring nginx to Use the PHP Processor 
 
+![nginx .php](./img/Snipaste_2023-11-21_13-35-45.png)
+
+
 Step 5 - Testing PHP with Nginx
+
+
+
 
 
 
